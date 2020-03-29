@@ -1,3 +1,3 @@
 # LandTick-Mobile
 
-Untuk menjalankan aplikasi ini bisa dengan perintah reeact-native run-android
+Untuk menjalankan aplikasi ini bisa dengan perintah react-native run-android
